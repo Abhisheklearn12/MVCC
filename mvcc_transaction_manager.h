@@ -1,6 +1,7 @@
-/*
+/*----------------------------------------------------------------------------
  * This manages all transactions - like a teacher managing students in class.
  * It hands out ID numbers and tracks who's doing what.
+ * ---------------------------------------------------------------------------
  */
 
 #ifndef MVCC_TRANSACTION_MANAGER_H
