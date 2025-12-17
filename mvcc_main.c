@@ -26,7 +26,7 @@
 void print_mvcc_explanation() {
     printf("\n");
     printf("╔════════════════════════════════════════════════════════════════╗\n");
-    printf("║           MVCC: Multi-Version Concurrency Control             ║\n");
+    printf("║           MVCC: Multi-Version Concurrency Control              ║\n");
     printf("║              (Explained Simply!)                               ║\n");
     printf("╚════════════════════════════════════════════════════════════════╝\n");
     printf("\n");
