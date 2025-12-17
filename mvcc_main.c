@@ -137,7 +137,7 @@ int main() {
     printf("  6. mvcc_main.c                - This main program\n");
     printf("\n");
     printf("To compile:\n");
-    printf("  gcc -std=c11 -o mvcc_demo mvcc_main.c\n");
+    printf("  gcc -std=c11 -o mvcc_demo mvcc_main.c\n");  // To compile this whole MVCC
     printf("\n");
 
     return 0;
